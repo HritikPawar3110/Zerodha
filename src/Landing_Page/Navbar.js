@@ -39,7 +39,7 @@ export default function Navbar() {
               </Link>
             </li>
             <li class="nav-item">
-              <Link class="nav-link active" to="/product">
+              <Link class="nav-link active" to="/products">
                 Products
               </Link>
             </li>

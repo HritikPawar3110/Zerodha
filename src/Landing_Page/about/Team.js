@@ -15,7 +15,7 @@ export default function Team() {
             alt="Nitin Kamath"
             style={{ borderRadius: "100%",width:"300px" }}
           />
-          <br/><h3 className="text-muted text-center">Nitin Kamath</h3>
+          <h3 className="text-muted text-center">Nitin Kamath</h3>
           <p className="text-muted text-center">Founder, CEO</p>
         </div>
         <div className="col-6">
