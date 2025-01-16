@@ -9,6 +9,7 @@ import Console from "../images/console.png";
 import Coin from '../images/coin.png'
 import KiteConnect from '../images/kiteconnect.png'
 import Versity from '../images/varsity.png'
+import Universe from "./Universe";
 
 export default function Product() {
   return (
@@ -55,6 +56,7 @@ export default function Product() {
         googlePlay={playstore}
         appStore={appstore}
       />
+      <Universe/>
     </>
   );
 }
